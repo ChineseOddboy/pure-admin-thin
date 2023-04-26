@@ -29,6 +29,8 @@
     "not op_mini all"
   ],
   "dependencies": {
+    "@babylonjs/core": "^6.0.0",
+    "@babylonjs/materials": "^6.0.0",
     "@pureadmin/descriptions": "^1.1.0",
     "@pureadmin/table": "^2.0.0",
     "@pureadmin/utils": "^1.8.5",
